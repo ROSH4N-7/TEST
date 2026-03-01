@@ -7,5 +7,7 @@ this is done through github gui need pull req to fetch this.
 ```bash
 pip install python-whois
 
-2. Running the code
+### 2. Running the code
+
+```bash
 python code.py
